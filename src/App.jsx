@@ -16,7 +16,7 @@ const navItems = [
   ["Home", "#Home"],
   ["Journey", "#Journey"],
   ["Growth", "#Growth"],
-  ["Vision", "#vision"],
+  ["Vision", "#Vision"],
 ];
 
 function Brand({ compact = false }) {

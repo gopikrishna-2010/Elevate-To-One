@@ -13,7 +13,7 @@ const DEMO_EMAIL = "demo@elevatetoone.com";
 const DEMO_PASSWORD = "Demo@123";
 
 const navItems = [
-  ["Home", "#home"],
+  ["Home", "#Home"],
   ["Journey", "#Journey"],
   ["Growth", "#growth"],
   ["Vision", "#vision"],

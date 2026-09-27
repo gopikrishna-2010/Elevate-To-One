@@ -14,7 +14,7 @@ const DEMO_PASSWORD = "Demo@123";
 
 const navItems = [
   ["Home", "#home"],
-  ["Journey", "#journey"],
+  ["Journey", "#Journey"],
   ["Growth", "#growth"],
   ["Vision", "#vision"],
 ];
